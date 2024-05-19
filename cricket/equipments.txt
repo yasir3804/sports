@@ -1,0 +1,20 @@
+For the Batsman:
+Bat
+Batting Gloves
+Pads
+Helmet
+Thigh Guard (Optional)
+Chest Guard (Optional)
+For the Bowler:
+Ball
+For the Wicket-keeper:
+Wicket-keeping Gloves
+Pads
+Helmet
+For the Fielders:
+Fielding Gloves (Optional)
+Pads (Optional)
+Other Equipment:
+Stumps
+Pitch
+Sight Screens
